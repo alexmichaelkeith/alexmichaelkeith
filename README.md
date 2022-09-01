@@ -9,7 +9,7 @@ Passionate about all things compute science
 * 🌍  I'm based in Cincinnati
 * 🖥️  See my portfolio at [alexmichaelkeith.com](http://alexmichaelkeith.com)
 * ✉️  You can contact me at [alex.michael.keith@gmail.com](mailto:alex.michael.keith@gmail.com)
-* 🚀  I'm currently working on [Emulator Freighter](http://github.com/alexmichaelkeith/EmulatorFreighter)
+* 🚀  I'm currently working on [Emulator Freighter](http://github.com/alexmichaelkeith/EmulatorFreighter) and [Open Cuisine](http://github.com/alexmichaelkeith/OpenCuisine)
 
 ### Skills
 
