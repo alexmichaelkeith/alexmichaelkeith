@@ -4,9 +4,9 @@ Hi 👋 My name is Alex Keith
 Software Development Engineer
 -----------------------------
 
-Passionate about all things compute science
+Passionate about all things computer science
 
-* 🌍  I'm based in Cincinnati
+* 🌍  I'm based in Mason, Ohio
 * ✉️  You can contact me at [alex.michael.keith@gmail.com](mailto:alex.michael.keith@gmail.com)
 
 ### Skills
@@ -38,13 +38,3 @@ Passionate about all things compute science
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/alexmichaelkeith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexmichaelkeith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@alex.michael.keith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18970749/alex-keith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alexmichaelkeith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/alexmichaelkeith/EmulatorFreighter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmichaelkeith&repo=EmulatorFreighter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/alexmichaelkeith/OpenCuisine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmichaelkeith&repo=OpenCuisine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/alexkeith"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
